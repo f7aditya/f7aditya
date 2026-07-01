@@ -9,7 +9,7 @@ I am a computer science student specializing in Artificial Intelligence and Mach
 *   💻 **Currently building:** LimitPulse and a Real-Time Healthcare Resource Coordination Platform.
 *   ⚙️ **Tech Stack:** MERN (MongoDB, Express.js, React, Node.js), Redis, Socket.io, Tailwind CSS, C++, Java.
 *   🧠 **Problem Solving:** Actively participating in competitive programming (CodeForces) with a focus on Data Structures, Dynamic Programming, and Greedy Mathematics.
-*   🎓 **Academics:** Exploring Computer Science theory, including Operating Systems, Automata Theory, and Database Management Systems.
+*   🎓 **Academics:** Exploring Computer Science theory, including Operating Systems, Computer Networks, and Database Management Systems.
 *   📫 **How to reach me:** adiverma8858@gmail.com
 
 ## 🛠️ Languages and Tools
