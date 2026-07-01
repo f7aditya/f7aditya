@@ -8,14 +8,13 @@ I am a computer science student specializing in Artificial Intelligence and Mach
 
 *   💻 **Currently building:** LimitPulse and a Real-Time Healthcare Resource Coordination Platform.
 *   ⚙️ **Tech Stack:** MERN (MongoDB, Express.js, React, Node.js), Redis, Socket.io, Tailwind CSS, C++, Java.
-*   🧠 **Problem Solving:** Actively participating in competitive programming (CodeChef) with a focus on Data Structures, Dynamic Programming, and Greedy Mathematics.
+*   🧠 **Problem Solving:** Actively participating in competitive programming (CodeForces) with a focus on Data Structures, Dynamic Programming, and Greedy Mathematics.
 *   🎓 **Academics:** Exploring Computer Science theory, including Operating Systems, Automata Theory, and Database Management Systems.
-*   📫 **How to reach me:** [Insert your LinkedIn URL or Email here]
+*   📫 **How to reach me:** adiverma8858@gmail.com
 
 ## 🛠️ Languages and Tools
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
