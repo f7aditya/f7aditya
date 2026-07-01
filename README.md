@@ -29,7 +29,7 @@ I am a computer science student specializing in Artificial Intelligence and Mach
 *A full-stack MERN application designed to manage and coordinate hospital data and bed availability in real-time, utilizing Redis and Socket.io for low-latency updates.*
 
 ### 2. LimitPulse
-*[Insert a 1-2 sentence description of LimitPulse here. For example: A high-performance tool built to handle X, utilizing Y technologies to solve Z problem.]*
+*A high-performance, low-latency rate limiting service implementing the Token Bucket algorithm to protect APIs from abuse and distributed denial-of-service (DDoS) traffic. Built using Node.js and Redis, it handles atomic token consumption and background replenishment across distributed servers with high concurrency.*
 
 ---
 ⭐️ *Constantly learning, building, and optimizing.*
